@@ -41,6 +41,7 @@ if ( !understands_video() ) {
 videoControls.style.display = 'none';
 
 }
+
 ****
 
 # Work experience:

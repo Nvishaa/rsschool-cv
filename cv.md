@@ -23,6 +23,8 @@
 ## *Git*
 ****
 # Code examples:
+
+
 function understands_video() {
 
 return !!document.createElement('video').canPlayType; // boolean
@@ -39,6 +41,7 @@ if ( !understands_video() ) {
 videoControls.style.display = 'none';
 
 }
+****
 
 # Work experience:
 ## *Call center operator*
